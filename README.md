@@ -1,6 +1,6 @@
 <div align="center">
   
-  # RVX-YT
+  # YouTube Extended
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/TKJIKU)
   
@@ -28,7 +28,7 @@
 
 **安装方式：**  
  ㅤ• 首先安装 MicroG  
- ㅤ• 然后安装 YT RVX  
+ ㅤ• 然后安装 YT & Music  
  ㅤ• 之后在 `手机设置-帐号` 中 登录你的 Google 即可
 
  <br>
