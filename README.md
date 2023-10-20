@@ -5,8 +5,10 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/TKJIKU)
   
   **针对非 Root 构建 ReVanced Extended** </div>
+
+  ---
   
-  <br></br>
+  <br>
   
   **使用工具：[Revancify](https://github.com/decipher3114/Revancify) by [@decipher3114](https://github.com/decipher3114)**
 
