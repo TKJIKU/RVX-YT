@@ -30,19 +30,7 @@
  <br>
 
  Credits : [inotia00](http://github.com/inotia00) & [Hoàng Gia Bả](http://github.com/yt-advanced) , [Decipher](http://github.com/decipher3114)
-
-   ---
-
-应用名称：YouTube  
-应用包名：app.yumo.android.youtube  
-CPU架构：arm64-v8a, armeabi-v7a, x86_64, x86  
-系统要求：Android 8+  
-
-应用名称：YouTube Music  
-应用包名：app.yumo.android.apps.youtube.music  
-CPU架构：arm64-v8a, armeabi-v7a  
-系统要求：Android 7+  
-
+ 
    ---
 
 ### 外部下载器
