@@ -31,7 +31,7 @@
 
  Credits : [inotia00](http://github.com/inotia00) & [Hoàng Gia Bả](http://github.com/yt-advanced) , [Decipher](http://github.com/decipher3114)
 
-<br>
+   ---
 
 应用名称：YouTube  
 应用包名：app.yumo.android.youtube  
@@ -43,11 +43,14 @@ CPU架构：arm64-v8a, armeabi-v7a, x86_64, x86
 CPU架构：arm64-v8a, armeabi-v7a  
 系统要求：Android 7+  
 
-<br>
+   ---
 
 ### 外部下载器
 
-**[NewPipe](https://newpipe.net/)：**  
-体验适用于 Android 的轻量级 YouTube  
+**[NewPipe](https://newpipe.net/)：** 体验适用于 Android 的轻量级 YouTube  
 
-**[Seal](https://github.com/JunkFood02/Seal)：**
+**[Seal](https://github.com/JunkFood02/Seal)：** 适用于 Android 的视频/音频下载器，使用 Material You 设计。  
+ㅤ• 从 yt-dlp 所支持的数千个视频平台下载视频与音频。
+
+**[YTDLnis](https://github.com/deniscerri/ytdlnis)：** 一款免费开源的视频/音频下载器。  
+ㅤ• 从1000多个网站下载音频/视频文件
