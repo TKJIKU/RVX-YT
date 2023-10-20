@@ -19,3 +19,14 @@
   <br>
   
   **注意：你必须安装 [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest) 并关闭电池优化允许后台运行**
+
+  <br>
+
+**安装方式：**  
+ ㅤ• 首先安装 MicroG  
+ ㅤ• 然后安装 YT RVX  
+ ㅤ• 之后在 手机设置-账号中 登录你的 Google
+
+ <br>
+
+ Credits : [inotia00](http://github.com/inotia00) & [Hoàng Gia Bả](http://github.com/yt-advanced) , [Decipher](http://github.com/decipher3114)
