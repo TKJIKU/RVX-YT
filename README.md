@@ -10,7 +10,7 @@
   
 <div align="center">
     
-  **Patched by TKJIKU** </div>
+  **★★★ Patched by TKJIKU ★★★** </div>
     
   <br>
     
