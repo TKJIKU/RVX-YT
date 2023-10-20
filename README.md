@@ -6,6 +6,6 @@
   
   **针对非 Root 构建 ReVanced Extended** </div>
 
-  **使用工具：[Revancify](https://github.com/decipher3114/Revancify) by [@decipher3114](https://github.com/decipher3114)**
+  **使用工具：[🛠️ Revancify](https://github.com/decipher3114/Revancify) by [@decipher3114](https://github.com/decipher3114)**
 
-  **变更日志：[ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest)**
+  **变更日志：[🧩 ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest)**
