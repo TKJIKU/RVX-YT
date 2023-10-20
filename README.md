@@ -8,10 +8,14 @@
 
   ---
   
+<div align="center">
+    
+  **Patched by TKJIKU** </div>
+    
   <br>
-  
+    
   **使用工具：[Revancify](https://github.com/decipher3114/Revancify) by [@decipher3114](https://github.com/decipher3114)**
-
+  
   <br>
 
   **变更日志：[ReVanced Patches](https://github.com/inotia00/revanced-patches/releases/latest)**
