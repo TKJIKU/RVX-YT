@@ -28,8 +28,8 @@
 
 **安装方式：**  
  ㅤ• 首先安装 MicroG  
- ㅤ• 然后安装 RV𝕏_YT/Music  
- ㅤ• 在 `手机设置-帐号` 中 选择 MicroG 登录你的 Google 即可使用 RV𝕏_YT
+ ㅤ• 然后安装 YT & Music  
+ ㅤ• 在 `手机设置-帐号` 中 选择 MicroG 登录你的 Google 即可
 
  <br>
 
